@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Channel.o -c /home/caoxu/workspace/mymuduo/Channel.cc",
+  "file": "/home/caoxu/workspace/mymuduo/Channel.cc",
+  "output": "CMakeFiles/mymuduo.dir/Channel.o"
+},
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/CurrentThread.o -c /home/caoxu/workspace/mymuduo/CurrentThread.cc",
+  "file": "/home/caoxu/workspace/mymuduo/CurrentThread.cc",
+  "output": "CMakeFiles/mymuduo.dir/CurrentThread.o"
+},
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/DefaultPoller.o -c /home/caoxu/workspace/mymuduo/DefaultPoller.cc",
+  "file": "/home/caoxu/workspace/mymuduo/DefaultPoller.cc",
+  "output": "CMakeFiles/mymuduo.dir/DefaultPoller.o"
+},
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/EPollPoller.o -c /home/caoxu/workspace/mymuduo/EPollPoller.cc",
+  "file": "/home/caoxu/workspace/mymuduo/EPollPoller.cc",
+  "output": "CMakeFiles/mymuduo.dir/EPollPoller.o"
+},
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoop.o -c /home/caoxu/workspace/mymuduo/EventLoop.cc",
+  "file": "/home/caoxu/workspace/mymuduo/EventLoop.cc",
+  "output": "CMakeFiles/mymuduo.dir/EventLoop.o"
+},
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/InetAddress.o -c /home/caoxu/workspace/mymuduo/InetAddress.cc",
+  "file": "/home/caoxu/workspace/mymuduo/InetAddress.cc",
+  "output": "CMakeFiles/mymuduo.dir/InetAddress.o"
+},
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Logger.o -c /home/caoxu/workspace/mymuduo/Logger.cc",
+  "file": "/home/caoxu/workspace/mymuduo/Logger.cc",
+  "output": "CMakeFiles/mymuduo.dir/Logger.o"
+},
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Poller.o -c /home/caoxu/workspace/mymuduo/Poller.cc",
+  "file": "/home/caoxu/workspace/mymuduo/Poller.cc",
+  "output": "CMakeFiles/mymuduo.dir/Poller.o"
+},
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/TcpServer.o -c /home/caoxu/workspace/mymuduo/TcpServer.cc",
+  "file": "/home/caoxu/workspace/mymuduo/TcpServer.cc",
+  "output": "CMakeFiles/mymuduo.dir/TcpServer.o"
+},
+{
+  "directory": "/home/caoxu/workspace/mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS   -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Timestamp.o -c /home/caoxu/workspace/mymuduo/Timestamp.cc",
+  "file": "/home/caoxu/workspace/mymuduo/Timestamp.cc",
+  "output": "CMakeFiles/mymuduo.dir/Timestamp.o"
+}
+]
